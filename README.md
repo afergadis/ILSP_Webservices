@@ -6,4 +6,6 @@ Available code for:
 
 * Perl
 
+* Python (contribution by Alex Mandalios)
+
 Online access: [http://nlp.ilsp.gr/soaplab2-axis/](http://nlp.ilsp.gr/soaplab2-axis/)
